@@ -1,0 +1,42 @@
+body{
+    font-family: Verdana;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.texto{
+    background-color: rgb(134, 138, 132);
+    padding-top: 5px;
+    text-align: center;
+    color: white;
+}
+
+.img{
+    padding: 5px;
+}
+
+.text{
+    background-color: rgb(114, 173, 173);
+    color:white;
+    text-align: center;
+    padding: 5px;
+}
+
+.img1{
+    padding-bottom: 15px;
+}
+
+.Serviços{
+    font-family: Verdana;
+    background-color: white;
+    margin-bottom: 25px;
+}
+
+.bg-fluid{
+    background-color: black;
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
